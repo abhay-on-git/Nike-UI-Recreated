@@ -1,4 +1,4 @@
-# Nike Landing Page
+# Nike-UI-Recreated
 
 ## This is the FrontEnd Project which is the defination of simple & sleek Web Design.
 
